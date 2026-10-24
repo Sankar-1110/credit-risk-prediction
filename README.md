@@ -21,6 +21,16 @@ The project uses the **Default of Credit Card Clients** dataset from the UCI Mac
 - **Default rate:** Approximately 22.12%
 
 The dataset contains customer demographic information, credit limits, repayment status, bill statements, and previous payment amounts.
+## 📚 Dataset Source and License
+
+This project uses the **Default of Credit Card Clients** dataset provided by the UCI Machine Learning Repository.
+
+- **Creator:** I-Cheng Yeh
+- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
+- **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **DOI:** https://doi.org/10.24432/C55S3H
+
+The dataset was used for educational and machine learning purposes. Any modifications made to the original dataset should be clearly documented.
 
 ## 🛠️ Technologies Used
 
